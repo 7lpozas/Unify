@@ -12,5 +12,5 @@
    npm run dev
    ```
 
-3. Open your browser and navigate to `http://localhost:3000`
+3. Open your browser and navigate to `http://localhost`
 
